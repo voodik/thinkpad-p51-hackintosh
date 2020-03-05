@@ -1,6 +1,6 @@
-# Thinkpad P51 High Sierra
+# Thinkpad P51 Catalina 10.15.4
 
-Feature set source: http://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad%20P51/ThinkPad_P51_Platform_Specifications.pdf
+Feature set source: https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_P51/ThinkPad_P51_Spec.pdf
 
 ## Hardware:
 
